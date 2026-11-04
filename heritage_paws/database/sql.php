@@ -4,7 +4,7 @@
 $host = "mysql-2099e8fd-alvinmuchemi-05c2.a.aivencloud.com"; // Your Aiven Host
 $port = 20336; // Your Aiven Port (NOT 3306)
 $username = "avnadmin"; // Your Aiven Username
-$password = "YOUR_AIVEN_PASSWORD"; // Your Aiven Password
+$password = ""; // Your Aiven Password
 $dbname = "heritage_paws"; // Your Database Name
 $ssl_ca = "ca.pem"; // Ensure this file is in the same directory!
 
